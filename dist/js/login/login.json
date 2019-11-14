@@ -1,0 +1,8 @@
+{
+    "code": 1,
+    "data": {
+        "userName": "admin",
+        "passWord": "123456",
+        "token": "practice_login"
+    }
+}

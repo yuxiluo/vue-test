@@ -1,0 +1,106 @@
+{
+    "code": 1,
+    "slides": [
+        {
+            "id": 21,
+            "imgUrl": "/images/shopSlides01.jpg"
+        },
+        {
+            "id": 22,
+            "imgUrl": "/images/shopSlides02.jpg"
+        },
+        {
+            "id": 23,
+            "imgUrl": "/images/shopSlides03.jpg"
+        }
+    ],
+    "data": [
+        {
+            "title": "IT互联网热门课程",
+            "list": [
+                {
+                    "id": "ke001",
+                    "imgUrl": "/images/shop001.png",
+                    "title": "互联网高级java架构课程",
+                    "price": 1.99
+                },
+                {
+                    "id": "ke002",
+                    "imgUrl": "/images/shop002.png",
+                    "title": "PHP7进阶到架构实战",
+                    "price": 50
+                },
+                {
+                    "id": "ke003",
+                    "imgUrl": "/images/shop003.png",
+                    "title": "JAVA高级开发架构师课程",
+                    "price": 399
+                },
+                {
+                    "id": "ke004",
+                    "imgUrl": "/images/shop004.png",
+                    "title": "思科工程师速成班",
+                    "price": 199
+                }
+            ]
+        },
+        {
+            "title": "电商营销热门课程",
+            "list": [
+                {
+                    "id": "ke005",
+                    "imgUrl": "/images/shop005.png",
+                    "title": "淘宝天猫双11运营玩法解读，节点控制营销设计",
+                    "price": 0
+                },
+                {
+                    "id": "ke006",
+                    "imgUrl": "/images/shop006.png",
+                    "title": "店铺流量裂变",
+                    "price": 3.99
+                },
+                {
+                    "id": "ke007",
+                    "imgUrl": "/images/shop007.png",
+                    "title": "迎合新规打造爆款",
+                    "price": 0
+                },
+                {
+                    "id": "ke008",
+                    "imgUrl": "/images/shop008.png",
+                    "title": "淘宝数据化运营解析",
+                    "price": 99
+                }
+            ]
+        },
+        {
+            "title": "设计创作热门课程",
+            "list": [
+                {
+                    "id": "ke009",
+                    "imgUrl": "/images/shop009.png",
+                    "title": "从0基础到职业美工，PS淘宝美工免费教程",
+                    "price": 299
+                },
+                {
+                    "id": "ke010",
+                    "imgUrl": "/images/shop010.png",
+                    "title": "PS摄影后期提升法则",
+                    "price": 88
+                },
+                {
+                    "id": "ke011",
+                    "imgUrl": "/images/shop011.png",
+                    "title": "室内设计3Dmax效果图从零基础到高级",
+                    "price": 3.99
+                },
+                {
+                    "id": "ke012",
+                    "imgUrl": "/images/shop012.png",
+                    "title": "日韩插画：头像人体服装设计",
+                    "price": 300
+                }
+            ]
+        }
+    ]
+}

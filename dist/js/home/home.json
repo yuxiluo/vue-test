@@ -1,0 +1,34 @@
+{
+    "code": 1,
+    "slides": [
+        {
+            "id": 1,
+            "imgUrl": "/images/homeslides01.jpg"
+        },
+        {
+            "id": 2,
+            "imgUrl": "/images/homeslides02.jpg"
+        }
+    ],
+    "gridNav": [
+        {
+            "title": "新闻资讯",
+            "path": "/news/tuijian"
+        }, {
+            "title": "樊登读书",
+            "path": "/book"
+        }, {
+            "title": "在线购物",
+            "path": "/shopping"
+        }, {
+            "title": "在线音乐",
+            "path": "/mousic"
+        }, {
+            "title": "电影电视",
+            "path": "/movies"
+        }, {
+            "title": "即时通讯",
+            "path": "/chat"
+        }
+    ]
+}
